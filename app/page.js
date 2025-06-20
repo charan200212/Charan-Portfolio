@@ -6,7 +6,7 @@ import Skills from "./components/homepage/skills";
 
 
    export default async function Home() {
-  const blogs = await getBlogs();
+  
 
   return (
     <div suppressHydrationWarning>
