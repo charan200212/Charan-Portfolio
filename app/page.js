@@ -15,13 +15,7 @@ import Skills from "./components/homepage/skills";
       <Skills />
       <Projects />
       <Education />
-      
-      {/* Optional Blog Section - only renders if blogs exist */}
-      {blogs.length > 0 && (
-        <Blog blogs={blogs} />
-      )}
-      
-     
+       
     </div>
   );
 }
