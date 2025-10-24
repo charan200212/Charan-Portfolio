@@ -2,7 +2,7 @@ export const personalData = {
   name: "Charan N",
   profile: '/charan pik.jpg',
   designation: "MCA Graduate",
-  description: " My name is Charan N Passionate and self-driven programmer seeking a challenging role to apply JavaScript and web development skills. Eager to learn new technologies and contribute to impactful, innovative projects in a collaborative environment.",
+  description: " My name is Charan Passionate and self-driven programmer seeking a challenging role to apply JavaScript and web development skills. Eager to learn new technologies and contribute to impactful, innovative projects in a collaborative environment.",
   email: 'charancharann2002@gmail.com',
   phone: '+917483433664',
   address: 'Tumkur ',
